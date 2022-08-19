@@ -7,3 +7,4 @@
 ## Contests ( Problems)
 
 - [x] - [677A](https://codeforces.com/contest/677/problem/A) - [Vanya and Fence](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/677A.cpp)
+- [x] - [734A](https://codeforces.com/contest/734/problem/A) - [Anton and Danik](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/734A.cpp)
