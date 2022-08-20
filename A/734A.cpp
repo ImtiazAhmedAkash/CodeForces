@@ -26,6 +26,8 @@ int main()
     {
         (a > d) ? cout << "Anton\n" : cout << "Danik\n";
     }
+    
+    free(ptr);
 
     return 0;
 }
