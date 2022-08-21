@@ -29,6 +29,7 @@ int main()
             cout << 0 << "\n";
         else
             cout << 2 * y + x - 2 << "\n";
+        // we can also use 2 * min(n, m) + max (n, m) - 2
     }
 
     return 0;
