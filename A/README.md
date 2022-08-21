@@ -6,8 +6,11 @@
 
 ## Contests (5 Problems)
 
+- [x] - [112A](https://codeforces.com/contest/112/problem/A) - [Petya and Strings](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/112A.cpp)
 - [x] - [231A](https://codeforces.com/contest/231/problem/A) - [Team](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/231A.cpp)
+- [x] - [236A](https://codeforces.com/contest/236/problem/A) - [Boy of Girl](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/236A.cpp)
 - [x] - [263A](https://codeforces.com/contest/263/problem/A) - [Beautiful Matrix](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/263A.cpp)
+- [x] - [405A](https://codeforces.com/contest/405/problem/A) - [Gravity Flip](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/405A.cpp)
 - [x] - [677A](https://codeforces.com/contest/677/problem/A) - [Vanya and Fence](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/677A.cpp)
 - [x] - [734A](https://codeforces.com/contest/734/problem/A) - [Anton and Danik](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/734A.cpp)
 - [x] - [791A](https://codeforces.com/contest/791/problem/A) - [Bear and Big Brother](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/791A.cpp)
