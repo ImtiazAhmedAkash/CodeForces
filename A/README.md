@@ -1,10 +1,6 @@
-# Category A (Problems) 
-
-## Problemset ( Problems)
+# Category A (9 Problems) 
 
 - [x] - [0A](https://codeforces.com/problemset/problem/0/A) - []()
-
-## Contests (5 Problems)
 
 - [x] - [112A](https://codeforces.com/contest/112/problem/A) - [Petya and Strings](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/112A.cpp)
 - [x] - [231A](https://codeforces.com/contest/231/problem/A) - [Team](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/231A.cpp)
