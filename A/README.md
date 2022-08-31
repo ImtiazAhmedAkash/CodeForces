@@ -1,10 +1,12 @@
-# Category A (18 Problems) 
+# Category A (20 Problems) 
 
 - [x] - [59A](https://codeforces.com/contest/59/problem/A) - [Word](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/59A.cpp)
 - [x] - [112A](https://codeforces.com/contest/112/problem/A) - [Petya and Strings](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/112A.cpp)
+- [x] - [228A](https://codeforces.com/contest/228/problem/A) - [Is your horseshoe on the other hoof?](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/228A.cpp)
 - [x] - [231A](https://codeforces.com/contest/231/problem/A) - [Team](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/231A.cpp)
 - [x] - [236A](https://codeforces.com/contest/236/problem/A) - [Boy of Girl](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/236A.cpp)
 - [x] - [263A](https://codeforces.com/contest/263/problem/A) - [Beautiful Matrix](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/263A.cpp)
+- [x] - [265A](https://codeforces.com/contest/265/problem/A) - [Colorful Stones (Simplified Edition)](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/265A.cpp)
 - [x] - [266A](https://codeforces.com/contest/266/problem/A) - [Stones on the Table](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/266A.cpp)
 - [x] - [268A](https://codeforces.com/contest/268/problem/A) - [Games](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/268A.cpp)
 - [x] - [344A](https://codeforces.com/contest/344/problem/A) - [Magnets](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/344A.cpp)
