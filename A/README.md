@@ -2,7 +2,7 @@
 
 - [x] - [59A](https://codeforces.com/contest/59/problem/A) - [Word](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/59A.cpp)
 - [x] - [112A](https://codeforces.com/contest/112/problem/A) - [Petya and Strings](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/112A.cpp)
-- [x] - [228A](https://codeforces.com/contest/228/problem/A) - [Is your horseshoe on the other hoof?](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/228A.cpp)
+- [x] - [228A](https://codeforces.com/contest/228/problem/A) - [Is your horseshoe on the other hoof?](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/228A.cpp) - [Another Solution Using Set](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/228A_1.cpp)
 - [x] - [231A](https://codeforces.com/contest/231/problem/A) - [Team](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/231A.cpp)
 - [x] - [236A](https://codeforces.com/contest/236/problem/A) - [Boy of Girl](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/236A.cpp)
 - [x] - [263A](https://codeforces.com/contest/263/problem/A) - [Beautiful Matrix](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/263A.cpp)
