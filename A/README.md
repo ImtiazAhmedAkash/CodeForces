@@ -1,5 +1,6 @@
 # Category A (20 Problems) 
 
+- [x] - [9A](https://codeforces.com/contest/9/problem/A) - [Die Roll](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/9A.cpp)
 - [x] - [59A](https://codeforces.com/contest/59/problem/A) - [Word](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/59A.cpp)
 - [x] - [112A](https://codeforces.com/contest/112/problem/A) - [Petya and Strings](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/112A.cpp)
 - [x] - [228A](https://codeforces.com/contest/228/problem/A) - [Is your horseshoe on the other hoof?](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/228A.cpp) - [Another Solution Using Set](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/228A_1.cpp)
@@ -9,16 +10,19 @@
 - [x] - [265A](https://codeforces.com/contest/265/problem/A) - [Colorful Stones (Simplified Edition)](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/265A.cpp)
 - [x] - [266A](https://codeforces.com/contest/266/problem/A) - [Stones on the Table](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/266A.cpp)
 - [x] - [268A](https://codeforces.com/contest/268/problem/A) - [Games](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/268A.cpp)
+- [x] - [294A](https://codeforces.com/contest/294/problem/A) - [Shaass and Oskols](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/294A.cpp)
 - [x] - [344A](https://codeforces.com/contest/344/problem/A) - [Magnets](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/344A.cpp)
 - [x] - [381A](https://codeforces.com/contest/381/problem/A) - [Sereja and Dima](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/381A.cpp)
 - [x] - [405A](https://codeforces.com/contest/405/problem/A) - [Gravity Flip](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/405A.cpp)
 - [x] - [427A](https://codeforces.com/contest/427/problem/A) - [Police Recruits](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/427A.cpp)
 - [x] - [431A](https://codeforces.com/contest/431/problem/A) - [Black Square](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/431A.cpp)
 - [x] - [677A](https://codeforces.com/contest/677/problem/A) - [Vanya and Fence](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/677A.cpp)
+- [x] - [709A](https://codeforces.com/contest/709/problem/A) - [Juicer](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/709A.cpp)
 - [x] - [731A](https://codeforces.com/contest/731/problem/A) - [Night at the Museum](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/731A.cpp)
 - [x] - [732A](https://codeforces.com/contest/732/problem/A) - [Buy a Shovel](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/732A.cpp)
 - [x] - [734A](https://codeforces.com/contest/734/problem/A) - [Anton and Danik](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/734A.cpp)
 - [x] - [791A](https://codeforces.com/contest/791/problem/A) - [Bear and Big Brother](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/791A.cpp)
+- [x] - [799A](https://codeforces.com/contest/799/problem/A) - [Carrot Cakes](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/799A.cpp)
 - [x] - [1715A](https://codeforces.com/contest/1715/problem/A) - [Crossmarket](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/1715A.cpp) ***On Contest***
 
 - [x] - [0A](https://codeforces.com/contest/0/problem/A) - [](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/0A.cpp)
