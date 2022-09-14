@@ -1,4 +1,4 @@
-# Category A (24 Problems) 
+# Category A (25 Problems) 
 
 1. [9A](https://codeforces.com/contest/9/problem/A) - [Die Roll](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/9A.cpp)
 
