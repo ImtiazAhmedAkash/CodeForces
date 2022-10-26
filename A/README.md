@@ -1,4 +1,4 @@
-# Category A (54 Problems) 
+# Category A (68 Problems) 
 
 - [x] - [1A](https://codeforces.com/contest/1/problem/A) - [Theatre Square](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/1A.cpp)
 - [x] - [4A](https://codeforces.com/contest/4/problem/A) - [Watermelon](https://github.com/ImtiazAhmedAkash/CodeForces/blob/main/A/4A.cpp)
